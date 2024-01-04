@@ -1,35 +1,41 @@
 # Data Analyst
 
-Objective
+## Objective
 A data science enthusiast with a strong background in math & statistics, seeking new & challenging opportunities. Passionate about analyzing data, identifying trends, & delivering high-quality results, I bring extensive experience in data analysis & a talent for translating complex technical concepts for non-technical stakeholders.
 
-Education
+## Education
 Centennial College, Toronto, ON – Project Management – Ontario Graduate Certificate
-Start Date – End Date 
+(January 2023 – December 2023)
 Seneca College, Toronto, ON – Business Analytics – Ontario Graduate Certificate
-Start Date – End Date
+(January 2022 - August 2022)
 Pune Institute of Computer Technology, Pune, India – Bachelor of Engineering, Information Technology
-Start Date – End Date
+(August 2017 - May 2021)
 
-Professional Experience
+## Professional Experience
 SickKids, The Hospital for Sick Children, Toronto, ON – Data Analyst Intern, Supply Chain Systems
-Sept 2023 - Present
+(Sept 2023 - Jan 2024)
 •	Developed NLP machine learning (ML) model in Python to auto-categorize clinical products, reducing manual efforts by hundreds of hours.
 •	Enhanced desktop/ cloud-based apps using Tkinter & Python for automated report generation.
 •	Partnered with colleagues to restructure the department SharePoint site due to company rebranding.
 •	Developed Standard Operating Procedures to ensure efficient workflow & adherence to rebranded guidelines.
-Pusateri’s Fine Foods, Location  – Cashier
-Feb 2022 - Feb 2023
+
+Pusateri’s Fine Foods, North York  – Cashier
+(Feb 2022 - Feb 2023)
 •	Responsible for cashing out customers & assisting in unloading/loading groceries.
 •	Portrayed excellent communication skills, allowing me to successfully connect with members, employees, & upper management.
 •	Resolve customer complaints, guide them, & provide relevant information.
 
-Skills & Tools
-Technical skills: Data modeling, Data Mining, Machine Learning, Predictive analysis, Data visualization
-Programming Languages & Data Tools: Python, SQL, Tableau, MS Excel
-Certifications: CAPM, DELF (A2) 
-Languages: English, Hindi, Marathi, French 
-Academic Projects
+## Skills & Tools
+### Technical skills: 
+Data modeling, Data Mining, Machine Learning, Predictive analysis, Data visualization
+### Programming Languages & Data Tools: 
+Python, SQL, Tableau, MS Excel
+### Certifications: 
+Certified Associate of Project Management (CAPM), Diplôme d'études en langue française (DELF) A2 
+### Languages: 
+English, Hindi, Marathi, French 
+
+## Academic Projects
 Complaint Analysis of E-commerce website 						
 May 2022 - Aug 2022
 •	Implemented ML model to analyze over 10,000 customer comments, resulting in a 90% accuracy predicting sentiment.
