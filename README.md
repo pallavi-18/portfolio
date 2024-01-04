@@ -4,13 +4,13 @@
 A data science enthusiast with a strong background in math & statistics, seeking new & challenging opportunities. Passionate about analyzing data, identifying trends, & delivering high-quality results, I bring extensive experience in data analysis & a talent for translating complex technical concepts for non-technical stakeholders.
 
 ## Education
-- Centennial College, Toronto, ON – Project Management – Ontario Graduate Certificate
+- Centennial College, Toronto, ON – **Project Management** – Ontario Graduate Certificate
 _(Jan 2023 – Dec 2023)_
 
-- Seneca College, Toronto, ON – Business Analytics – Ontario Graduate Certificate
+- Seneca College, Toronto, ON – *Business Analytics* – Ontario Graduate Certificate
 _(Jan 2022 - Aug 2022)_
 
-- Pune Institute of Computer Technology, Pune, India – Bachelor of Engineering, Information Technology
+- Pune Institute of Computer Technology, Pune, India – **Bachelor of Engineering, Information Technology**
 _(Aug 2017 - May 2021)_
 
 ## Professional Experience
