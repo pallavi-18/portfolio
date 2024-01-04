@@ -12,20 +12,20 @@ Pune Institute of Computer Technology, Pune, India – Bachelor of Engineering, 
 (August 2017 - May 2021)
 
 ## Professional Experience
-SickKids, The Hospital for Sick Children, Toronto, ON – Data Analyst Intern, Supply Chain Systems
-(Sept 2023 - Jan 2024)
-
+**SickKids, The Hospital for Sick Children, Toronto, ON – Data Analyst Intern, Supply Chain Systems (_Sept 2023 - Jan 2024_)**
 - Developed NLP machine learning (ML) model in Python to auto-categorize clinical products, reducing manual efforts by hundreds of hours.
 -	Enhanced desktop/ cloud-based apps using Tkinter & Python for automated report generation.
 -	Partnered with colleagues to restructure the department SharePoint site due to company rebranding.
 -	Developed Standard Operating Procedures to ensure efficient workflow & adherence to rebranded guidelines.
 
-Pusateri’s Fine Foods, North York  – Cashier
-(Feb 2022 - Feb 2023)
+**Pusateri’s Fine Foods, North York  – Cashier (_Feb 2022 - Feb 2023_)**
+- Responsible for cashing out customers & assisting in unloading/loading groceries.
+- Portrayed excellent communication skills, allowing me to successfully connect with members, employees, & upper management.
+- Resolve customer complaints, guide them, & provide relevant information.
 
-•	Responsible for cashing out customers & assisting in unloading/loading groceries.
-•	Portrayed excellent communication skills, allowing me to successfully connect with members, employees, & upper management.
-•	Resolve customer complaints, guide them, & provide relevant information.
+
+
+•	
 
 ## Skills & Tools
 ### Technical skills: 
