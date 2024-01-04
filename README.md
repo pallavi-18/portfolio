@@ -15,10 +15,10 @@ Pune Institute of Computer Technology, Pune, India – Bachelor of Engineering, 
 SickKids, The Hospital for Sick Children, Toronto, ON – Data Analyst Intern, Supply Chain Systems
 (Sept 2023 - Jan 2024)
 
-•	Developed NLP machine learning (ML) model in Python to auto-categorize clinical products, reducing manual efforts by hundreds of hours.
-•	Enhanced desktop/ cloud-based apps using Tkinter & Python for automated report generation.
-•	Partnered with colleagues to restructure the department SharePoint site due to company rebranding.
-•	Developed Standard Operating Procedures to ensure efficient workflow & adherence to rebranded guidelines.
+- Developed NLP machine learning (ML) model in Python to auto-categorize clinical products, reducing manual efforts by hundreds of hours.
+-	Enhanced desktop/ cloud-based apps using Tkinter & Python for automated report generation.
+-	Partnered with colleagues to restructure the department SharePoint site due to company rebranding.
+-	Developed Standard Operating Procedures to ensure efficient workflow & adherence to rebranded guidelines.
 
 Pusateri’s Fine Foods, North York  – Cashier
 (Feb 2022 - Feb 2023)
