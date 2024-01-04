@@ -7,7 +7,7 @@ A data science enthusiast with a strong background in math & statistics, seeking
 - Centennial College, Toronto, ON – **Project Management** – Ontario Graduate Certificate
 _(Jan 2023 – Dec 2023)_
 
-- Seneca College, Toronto, ON – *Business Analytics* – Ontario Graduate Certificate
+- Seneca College, Toronto, ON – **Business Analytics** – Ontario Graduate Certificate
 _(Jan 2022 - Aug 2022)_
 
 - Pune Institute of Computer Technology, Pune, India – **Bachelor of Engineering, Information Technology**
